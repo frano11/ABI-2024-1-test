@@ -1,4 +1,7 @@
 The screen of my computer is a bit blurry, but nevermind, I have the secret to make it clean.
 And this one is very simple: just clean with a dry soft cloth. In circular motion, don't forget it!
 But now, if you are annoyed by the fingerprints on the screen, then you might consider using 70% isopropyl alcohol.
+<<<<<<< HEAD
 Furthermore, you can vacuumclean your keyword.
+=======
+>>>>>>> 6e53e9664a4a6ce09cd6bef3bf999c388a5853de
